@@ -5,4 +5,4 @@
 this dashboard was created to help job seekers investigate salaries to decide and see which job suits them well  
 
 ## Dashboard file  
-### the file : Data science salary calculator.xlsx
+### the file : [Excel File](Excel Worksheet/Data science salary calculator.xlsx)
